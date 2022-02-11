@@ -8,3 +8,14 @@ Tetris clone made using the Greenfoot Java environment
 2. Download the project and extract it
 3. Open *project.greenfoot*
 4. Click *Run* to play
+
+## Controls
+**Left/Right** - Move 
+
+**Down** - Soft Drop 
+
+**Space** - Hard Drop 
+
+**A/S** - Rotate
+
+**D** - Hold 
